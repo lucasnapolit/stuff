@@ -13,6 +13,7 @@ const amigos = [
     { name: "david", nickname: "tidus" },
     { name: "diego", nickname: "capuchino" }
     { name: "lucas ", nickname: "sas_mafia" }
+    { name: "lucass ", nickname: "sas_mafias" }
 
 ]
 
