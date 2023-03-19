@@ -11,7 +11,8 @@ const amigos = [
     { name: "juan", nickname: "V3gador" },
     { name: "agustin", nickname: "morzi" },
     { name: "david", nickname: "tidus" },
-    { name: "diego", nickname: "capuchino" },
+    { name: "diego", nickname: "capuchino" }
+    { name: "lucas ", nickname: "sas_mafia" }
 
 ]
 
